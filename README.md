@@ -1,3 +1,4 @@
+#try to change metrics lables
 # pgSCV - PostgreSQL ecosystem metrics collector.
 versions
  we had an issues to start unit with beta versions, so we used 0_7_5
